@@ -1,0 +1,11 @@
+# TuneD runtime state — regenerated at runtime, machine-specific.
+# active_profile and profile_mode are intentionally tracked: they capture the
+# desired preset (lowend-gaming / manual).
+post_loaded_profile
+bootcmdline
+
+# Editor / backup leftovers
+*.bak
+*.orig
+*.swp
+*~
